@@ -1,5 +1,7 @@
 # nb_to_html
 
+[Medium article](https://medium.com/@_orcaman/a-simple-serverless-reporting-endpoint-based-on-jupyter-notebooks-4cf3e1d15ebe)
+
 nb_to_html is a web application that creates on-demand dynamic HTML reports powered by Jupyter Notebooks.
 
 This is quite a powerful concept as it allows the data scientist to really quickly generate HTML reports that could be sent out as simple URLs.
